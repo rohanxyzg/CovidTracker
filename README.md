@@ -1,5 +1,5 @@
 # covidsub
-Covid 19 tracker
+Created a Covid 19 tracker using React hooks,Charts.js and Material UI
 ## Install dependencies for server
 npm install
 
